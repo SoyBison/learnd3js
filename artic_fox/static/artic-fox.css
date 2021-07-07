@@ -1,0 +1,9 @@
+body {
+    font-family: serif;
+    color: #000000
+}
+
+p.bigtext {
+    font-size: xxx-large;
+    color: black;
+}
